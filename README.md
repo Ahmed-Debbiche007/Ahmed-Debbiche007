@@ -10,7 +10,7 @@
  <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=Ahmed-Debbiche007&theme=noctis-minimus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDDDD" alt="MedSabkhi21" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Debbiche007&theme=react&border=61dafb&hide_border=true" alt="MedSabkhi21" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ahmed-Debbiche007&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
