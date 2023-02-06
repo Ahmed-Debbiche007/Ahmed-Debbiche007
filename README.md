@@ -16,7 +16,9 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ahmed-Debbiche007&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-    <br><br><br><br><br><br><br>  <br><br><br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ahmed-Debbiche007&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedg99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedg99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedg99" alt="ahmedg99" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
