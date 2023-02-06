@@ -1,7 +1,7 @@
 <div align=center>
 <img align="right" src="https://komarev.com/ghpvc/?username=Ahmed-Debbiche0071&label=Profile%20views&color=0e75b6&style=flat">
   
-  [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/ahmed-debbiche-001/)
+  [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/ahmed-debbiche-007/)
 </div>
   <br><br>
   
