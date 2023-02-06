@@ -18,8 +18,8 @@
   </div>
 </p>
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedg99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedg99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Debbiche007&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Debbiche007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedg99" alt="ahmedg99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Debbiche007" alt="Ahmed-Debbiche007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
