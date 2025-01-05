@@ -5,7 +5,7 @@
 </div>
   <br>
   
-<div align="center"><b>A code junky, trying to "ninja" my way without tripping</b><br>Still learning, but now with the degree to prove it!</div>
+<div align="center">Still learning, but now with the degree to prove it!</div>
 
 <br>
 <p align=center>
